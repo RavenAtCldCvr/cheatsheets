@@ -45,6 +45,8 @@ You can run a copies of realistic looking mock databases on your computer before
 
 1. Run a copy of adventureworks MS SQL Server database in docker.
 
+AdventureWorks Database is a Microsoft product sample for an online transaction processing (OLTP) database. The AdventureWorks Database supports a fictitious, multinational manufacturing company called Adventure Works Cycles.
+
 ```bash
 # Downloads an opensource version of adventureworks
 docker pull chriseaton/adventureworks
